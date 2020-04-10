@@ -1,0 +1,24 @@
+{
+  "name": "Arigato Bot",
+  "description": "Just Mirror Shits",
+  "logo": "https://i.imgur.com/nRTzDSd.jpg",
+  "keywords": [
+    "telegram",
+    "mirrorbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/foxcornlab/mirror-bot",
+  "website": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+  "success_url": "https://github.com/lzzy12/python-aria-mirror-bot",
+  "stack": "container",
+  "addons": [
+      {
+        "plan": "heroku-postgresql",
+        "options": {
+          "version": "9.5"
+        }
+      }
+    ]
+  }
