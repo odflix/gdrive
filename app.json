@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/foxcornlab/mirror-bot",
-  "website": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+  "repository": "https://github.com/odflix/gdrive",
+  "website": "https://github.com/odflix/gdrive/blob/master/README.md",
   "success_url": "https://github.com/lzzy12/python-aria-mirror-bot",
   "stack": "container",
   "addons": [
